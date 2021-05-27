@@ -1,6 +1,9 @@
 # createQR
 Creates QR codes and a small excel sheet per employee from a master excel sheet to be used in business cards.
 
+### Inspiration
+Created due to our HR department's need to have business cards with unique QR codes per employee. This helps automate the process.
+
 # Input
 The script is intended to read an Excel sheet called "Business Cards Contact Information.xlsx"
 Each line of this Excel sheet corresponds to one employee and their relevant information.
